@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ShoppingCart.PriceCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "beans beans beans Milk"
+    }
+  }
+}
